@@ -1,0 +1,47 @@
+
+body {
+    background-color:#676B75;
+}
+
+body{
+    background-color:#096A7D;
+}
+
+body{
+    background-color:#3FA697;
+}
+
+body{
+    background-color:#261C99;
+}
+
+body{
+    color:white;
+}
+
+img{
+    filter:contrast(100%);
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a:link {
+    color:#84C143;
+}
+a:visited {
+    color:#5eeb34;
+}
+a:hover {
+    color:pink;
+}
+a:active{
+    color:red;
+}
+
+.title{
+    color:black;
+}
